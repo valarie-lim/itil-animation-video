@@ -25,6 +25,7 @@ The animation introduces the **ITIL Service Lifecycle**, which consists of five 
 3. Service Transition
 4. Service Operation
 5. Continual Service Improvement
+
 These stages form a structured lifecycle for managing IT services effectively and aligning them with business objectives.
 
 The video also explains **ISO/IEC 20000**, the international standard for IT Service Management, and discusses how it relates to ITIL best practices.

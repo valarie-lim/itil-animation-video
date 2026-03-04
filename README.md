@@ -26,7 +26,7 @@ The animation introduces the **ITIL Service Lifecycle**, which consists of five 
 4. Service Operation  
 5. Continual Service Improvement  
 
-These stages form a structured lifecycle for managing IT services effectively and aligning them with business objectives. :contentReference[oaicite:0]{index=0}
+These stages form a structured lifecycle for managing IT services effectively and aligning them with business objectives.
 
 ---
 
@@ -38,7 +38,7 @@ The animation video was created using a multi-tool production workflow:
 4. Image background removal using **Remove.bg**
 5. Custom diagrams designed using **Microsoft PowerPoint**
 
-Animaker is a cloud-based animation platform that allows users to create animated videos easily through a drag-and-drop interface. :contentReference[oaicite:1]{index=1}
+Animaker is a cloud-based animation platform that allows users to create animated videos easily through a drag-and-drop interface.
 
 ---
 

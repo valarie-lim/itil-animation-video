@@ -13,12 +13,12 @@ The video was created to simplify complex IT Service Management concepts and mak
 ---
 
 ## Video Screenshots
-![ITIL](screenshots/ITIL_01.png)
-![ITIL](screenshots/ITIL_02.png)
+![ITIL](screenshots/ITIL_07.png)
 ![ITIL](screenshots/ITIL_03.png)
 ![ITIL](screenshots/ITIL_04.png)
-![ITIL](screenshots/ITIL_05.png)
-
+![ITIL](screenshots/ITIL_06.png)
+![ITIL](screenshots/ITIL_09.png)
+![ITIL](screenshots/ITIL_10.png)
 ---
 
 ## Project Goal

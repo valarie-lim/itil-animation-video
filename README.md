@@ -12,6 +12,15 @@ The video was created to simplify complex IT Service Management concepts and mak
 
 ---
 
+## Video Screenshots
+![ITIL](screenshots/ITIL_01.png)
+![ITIL](screenshots/ITIL_02.png)
+![ITIL](screenshots/ITIL_03.png)
+![ITIL](screenshots/ITIL_04.png)
+![ITIL](screenshots/ITIL_05.png)
+
+---
+
 ## Project Goal
 The goal of this project is to demonstrate how animation and multimedia tools can be used to explain complex IT concepts in a clear and engaging way.
 By combining animation, narration, diagrams, and AI-assisted tools, the project aims to improve understanding of ITIL Service Management concepts.

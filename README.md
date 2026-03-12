@@ -1,5 +1,7 @@
 # ITIL Service Management Animation
-ITIL | Educational Animation | IT Service Management Explanation
+![Topic](https://img.shields.io/badge/Topic-ITIL-blue)
+![Field](https://img.shields.io/badge/Field-IT%20Service%20Management-green)
+![Type](https://img.shields.io/badge/Type-Educational%20Animation-orange)
 
 This project is an educational animation video that explains key concepts of **ITIL Service Management** using visual storytelling, diagrams, and narration.
 The video was created to simplify complex IT Service Management concepts and make them easier for students to understand through animation and visual explanations.
